@@ -59,9 +59,7 @@ Sales-Intelligence-Dashboard/
 └── 📄 LICENSE.txt  
 
 ## Dashboard Snapshot  
-
-![Screenshot 2025-04-18 143142](https://github.com/user-attachments/assets/1d9a4817-9ea8-44da-b833-0e39bd03168a)
-
+![Screenshot 2025-04-18 143142](https://github.com/user-attachments/assets/2ff0680b-63d2-4b1c-9650-2497af189ed3)
 ![Screenshot 2025-04-18 153157](https://github.com/user-attachments/assets/7e60c5b4-37b7-4803-9a26-529776241607)
 
 ## 📧 Contact
