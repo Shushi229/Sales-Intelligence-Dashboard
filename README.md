@@ -45,7 +45,33 @@ The dashboard is designed to display insightful visualizations such as:
 ---
 
 ## 📄 Project Structure
-├── Dashboard.pbix # Power BI Dashboard File ├── Dataset/ │ └── Superstore.csv # Source dataset ├── Presentation.pdf # PPT Summary of Dashboard └── README.md # Project Overview & Documentation4
+Sales-Intelligence-Dashboard/
+│
+├── 📊 Dashboard.pbix               
+│
+├── 📁 Dataset/                   
+│   └── Superstore.csv            
+│
+├── 📄 Presentation.pdf           
+│
+├── 📘 README.md                   
+│
+└── 📄 LICENSE.txt                  
+
+## 📧 Contact
+
+Feel free to connect or reach out for feedback or collaboration:
+
+- 🔗 [LinkedIn – saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)  
+- 📩 Email: saurabhu.2004@gmail.com
+
+---
 
 ## 📝 License
-This project is for educational purposes and not intended for commercial use.
+
+This project is intended solely for **educational** and **portfolio** purposes.  
+Not licensed for commercial use.
+
+---
+
+*Developed using Microsoft Power BI Desktop.*
