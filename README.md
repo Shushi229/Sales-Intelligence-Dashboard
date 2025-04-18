@@ -47,7 +47,10 @@ The dashboard is designed to display insightful visualizations such as:
 ## 📄 Project Structure
 Sales-Intelligence-Dashboard/
 │
-├── 📊 Dashboard.pbix               
+
+├── 📊 Dashboard.pbix 
+│
+├── 📊 Dashboard.pdf
 │
 ├── 📁 Dataset/                   
 │   └── Superstore.csv            
